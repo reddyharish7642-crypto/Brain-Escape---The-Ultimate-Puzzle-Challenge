@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "defaultCaptions": {},
+  "assets": {
+    "favicon": "assets/share/favicon.png",
+    "og": "assets/share/og_runtime.png"
+  },
+  "title": "Brain Escape – The Ultimate Puzzle Challenge",
+  "description": "Solve 50 colorful logic, memory, pattern, math, and mechanism puzzles. Unlock each room, earn stars and coins, and escape the vault."
+}

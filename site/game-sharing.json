@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 2,
+  "publicationOrigin": "https://brainescape-rehpkfnk.manus.game",
+  "title": "Brain Escape – The Ultimate Puzzle Challenge",
+  "description": "Solve 50 colorful logic, memory, pattern, math, and mechanism puzzles. Unlock each room, earn stars and coins, and escape the vault.",
+  "defaultCaptions": {},
+  "assets": {
+    "og": {
+      "digest": "sha256:d43034e054625f9ba9044ba597b8153a32e0dbacabb04a8a365e43f0e3a031b7",
+      "path": "share/d43034e054625f9ba9044ba597b8153a32e0dbacabb04a8a365e43f0e3a031b7.png",
+      "mime": "image/png",
+      "width": 1200,
+      "height": 675,
+      "sizeBytes": 1183023,
+      "sourcePath": "assets/share/og_runtime.png"
+    },
+    "favicon": {
+      "digest": "sha256:7b91390b1f6de3ecbf64d2e6ac3d34477b742ab85b53f3a5eea3a453cbde81ae",
+      "path": "share/7b91390b1f6de3ecbf64d2e6ac3d34477b742ab85b53f3a5eea3a453cbde81ae.png",
+      "mime": "image/png",
+      "width": 128,
+      "height": 121,
+      "sizeBytes": 21508,
+      "sourcePath": "assets/share/favicon.png"
+    }
+  }
+}
